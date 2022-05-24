@@ -4,5 +4,5 @@ var config = {
   apiUrl: 'http://localhost:8077'
   // apiUrl: 'https://www.cpu-edu.com/net_school'
 }
-// 暴露出去
+// export the config
 export default config
